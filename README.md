@@ -28,11 +28,13 @@ Fruit Ninja is a Python game created by @ZerxysZ. This project represents my fir
 
 * Slice the "start" logo with your mouses cursor to begin!
 
-![image](https://github.com/ZerxysZ/Fruit-Ninja/assets/90399719/82c96a4a-9ac9-4a68-9d5b-dfe0a012581d)
+![Screenshot (178)](https://github.com/ZerxysZ/Fruit-Ninja/assets/90399719/4a72fd59-467d-4e10-a322-5486f3b12654)
+
 
 * Slice the fruits and the rest is pretty much self explanatory :)
 
-![image](https://github.com/ZerxysZ/Fruit-Ninja/assets/90399719/12c1d772-ef29-40c7-b0ad-79f051a7b5b7)
+![Screenshot (182)](https://github.com/ZerxysZ/Fruit-Ninja/assets/90399719/5ef4e785-7c10-4b8c-849c-a672019dfb5b)
+
 
 
 # Game Mechanics
